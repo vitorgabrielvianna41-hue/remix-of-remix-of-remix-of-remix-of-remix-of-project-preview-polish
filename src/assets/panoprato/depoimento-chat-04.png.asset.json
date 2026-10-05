@@ -1,11 +1,11 @@
 {
-  "asset_id": "87c70278-4f68-46a6-9cc9-8e3f689166dd",
-  "content_type": "image/png",
-  "created_at": "2026-10-05T03:37:27Z",
-  "original_filename": "depoimento-chat-04.png",
+  "version": 1,
+  "asset_id": "d2f216c8-3dec-419e-8f1e-989ec4819d5d",
   "project_id": "4173df4e-e9af-4b5a-b535-5de3de8b9392",
-  "r2_key": "a/v1/4173df4e-e9af-4b5a-b535-5de3de8b9392/87c70278-4f68-46a6-9cc9-8e3f689166dd/depoimento-chat-04.png",
-  "size": 421924,
-  "url": "/__l5e/assets-v1/87c70278-4f68-46a6-9cc9-8e3f689166dd/depoimento-chat-04.png",
-  "version": 1
+  "url": "/__l5e/assets-v1/d2f216c8-3dec-419e-8f1e-989ec4819d5d/depoimento-chat-04.png",
+  "r2_key": "a/v1/4173df4e-e9af-4b5a-b535-5de3de8b9392/d2f216c8-3dec-419e-8f1e-989ec4819d5d/depoimento-chat-04.png",
+  "original_filename": "depoimento-chat-04.png",
+  "size": 2174587,
+  "content_type": "image/png",
+  "created_at": "2026-10-05T21:38:56Z"
 }
