@@ -11,16 +11,16 @@ import asset9 from "@/assets/panoprato/gallery-flores-01.webp.asset.json";
 import asset10 from "@/assets/panoprato/gallery-flores-03.webp.asset.json";
 import asset11 from "@/assets/panoprato/gallery-frutas-01.webp.asset.json";
 import asset12 from "@/assets/panoprato/gallery-frutas-02.webp.asset.json";
-import asset13 from "@/assets/panoprato/resultado-enviado-01.png.asset.json";
-import asset14 from "@/assets/panoprato/resultado-enviado-02.png.asset.json";
-import asset15 from "@/assets/panoprato/resultado-enviado-03.png.asset.json";
-import asset16 from "@/assets/panoprato/resultado-enviado-04.png.asset.json";
-import asset17 from "@/assets/panoprato/resultado-enviado-05.png.asset.json";
-import asset18 from "@/assets/panoprato/hero-risco-01.webp.asset.json";
-import asset19 from "@/assets/panoprato/hero-risco-02.webp.asset.json";
-import asset20 from "@/assets/panoprato/hero-risco-03.webp.asset.json";
-import asset21 from "@/assets/panoprato/hero-risco-04.webp.asset.json";
-import asset22 from "@/assets/panoprato/hero-risco-05.webp.asset.json";
+import asset18 from "@/assets/panoprato/hero-risco-01.png.asset.json";
+import asset19 from "@/assets/panoprato/hero-risco-02.png.asset.json";
+import asset20 from "@/assets/panoprato/hero-risco-03.png.asset.json";
+import asset21 from "@/assets/panoprato/hero-risco-04.png.asset.json";
+import asset22 from "@/assets/panoprato/hero-risco-05.png.asset.json";
+import asset37 from "@/assets/panoprato/hero-resultado-01.png.asset.json";
+import asset38 from "@/assets/panoprato/hero-resultado-02.png.asset.json";
+import asset39 from "@/assets/panoprato/hero-resultado-03.png.asset.json";
+import asset40 from "@/assets/panoprato/hero-resultado-04.png.asset.json";
+import asset41 from "@/assets/panoprato/hero-resultado-05.png.asset.json";
 import asset23 from "@/assets/panoprato/process-transferencia-01.webp.asset.json";
 import asset24 from "@/assets/panoprato/process-transferencia-02.webp.asset.json";
 import asset25 from "@/assets/panoprato/process-transferencia-03.webp.asset.json";
@@ -50,11 +50,11 @@ export const imageUrls: Record<string, string> = {
   "/assets/gallery/flores-03.webp": asset10.url,
   "/assets/gallery/frutas-01.webp": asset11.url,
   "/assets/gallery/frutas-02.webp": asset12.url,
-  "/assets/hero/resultado-01.webp": asset17.url,
-  "/assets/hero/resultado-02.webp": asset16.url,
-  "/assets/hero/resultado-03.webp": asset15.url,
-  "/assets/hero/resultado-04.webp": asset14.url,
-  "/assets/hero/resultado-05.webp": asset13.url,
+  "/assets/hero/resultado-01.webp": asset37.url,
+  "/assets/hero/resultado-02.webp": asset38.url,
+  "/assets/hero/resultado-03.webp": asset39.url,
+  "/assets/hero/resultado-04.webp": asset40.url,
+  "/assets/hero/resultado-05.webp": asset41.url,
   "/assets/hero/risco-01.webp": asset18.url,
   "/assets/hero/risco-02.webp": asset19.url,
   "/assets/hero/risco-03.webp": asset20.url,
